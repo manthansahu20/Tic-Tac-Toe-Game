@@ -24,9 +24,9 @@ This project helped me learn the basics of **C++ programming** and console-based
 
 ## 🚀 How to Run
 
-### Using g++ Compiler
+### Using c++ Compiler
 1. Compile the program:
 ```bash
-g++ tic_tac_toe.cpp -o tic_tac_toe
+c++ tic_tac_toe.cpp -o tic_tac_toe
 
 
