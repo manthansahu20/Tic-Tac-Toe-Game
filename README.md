@@ -27,6 +27,6 @@ This project helped me learn the basics of **C++ programming** and console-based
 ### Using c++ Compiler
 1. Compile the program:
 ```bash
-c++ tic_tac_toe.cpp -o tic_tac_toe
+g++ tic_tac_toe.cpp -o tic_tac_toe
 
 
